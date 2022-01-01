@@ -32,7 +32,7 @@ were able to identify the useful features of the dataset and tune the hyperparam
 
 ### Model
 
-The final trained model, with the best hyperparameters is stored in the models folder.
+The final trained model with the best hyperparameters is stored in the models folder.
 
 ### Python Scripts
 
