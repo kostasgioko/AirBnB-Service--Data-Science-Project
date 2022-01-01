@@ -17,7 +17,7 @@ most useful features, train a model to accurately predict the prices of the list
 
 ## Dataset
 
-The dataset is provided in two files called listings.csv and reviews.csv.
+The dataset is provided in two files called listings.csv and reviews.csv. (The files were split due to size restrictions)
 
 The first contains nominal information about the listings, like its neighbourhood, its description, amenities, bedrooms, bathrooms and more.
 
